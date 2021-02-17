@@ -1,0 +1,27 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\andre\OneDrive\Documents\Programming\Ada\Car thing\vehicles.gpr
+20210217114224 22a31d153ad6cff256d61c06660cd7f3
+[BOUND OBJECT FILES]
+C:\Users\andre\OneDrive\Documents\Programming\Ada\Car thing\obj\types.o
+C:\Users\andre\OneDrive\Documents\Programming\Ada\Car thing\obj\battery_levels.o
+C:\Users\andre\OneDrive\Documents\Programming\Ada\Car thing\obj\battery_use.o
+C:\Users\andre\OneDrive\Documents\Programming\Ada\Car thing\obj\go_distance.o
+C:\Users\andre\OneDrive\Documents\Programming\Ada\Car thing\obj\drive.o
+C:\Users\andre\OneDrive\Documents\Programming\Ada\Car thing\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\andre\OneDrive\Documents\Programming\Ada\Car thing\obj\
+-LC:\Users\andre\OneDrive\Documents\Programming\Ada\Car thing\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnarl.a
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads

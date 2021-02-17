@@ -1,0 +1,31 @@
+V "GNAT Lib v2020"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U go_distance%b		go_distance.adb		78e3b043 NE OO PK
+W types%s		types.ads		types.ali
+
+U go_distance%s		go_distance.ads		1f843c28 EE NE OO PK
+W types%s		types.ads		types.ali
+
+D go_distance.ads	20210217164102 ef4c0607 go_distance%s
+D go_distance.adb	20210217164102 67678c6b go_distance%b
+D system.ads		20200228061810 32a08138 system%s
+D types.ads		20210217154906 f0c83a2f types%s
+G a e
+G c Z s b [reduce_distance go_distance 4 13 none]
+X 1 go_distance.ads
+2K9*Go_Distance 6l5 6e16 2|2b14 8l5 8t16
+4V13*Reduce_Distance{integer} 4<29 2|3b13 7l8 7t23
+4r29 vehicle{4|3R9} 2|3b29 5m7 5r25 5r42 6r14
+X 4 types.ads
+1K9*Types 1|1w6 1r17 2|1w6 1r17 4|8e10
+3R9*Car 1|4r43 2|3r42 4|7e14
+5i7*Speed{integer} 2|5r50
+6i7*distance{integer} 2|5m15 5r33 6r22
+

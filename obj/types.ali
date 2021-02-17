@@ -1,0 +1,22 @@
+V "GNAT Lib v2020"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U types%s		types.ads		f0c83a2f NE OO PK
+
+D system.ads		20200228061810 32a08138 system%s
+D types.ads		20210217154906 f0c83a2f types%s
+G a e
+G c Z s s [carIP types 3 9 none]
+X 2 types.ads
+1K9*Types 8l5 8e10
+3R9*Car 7e14
+4i7*Battery{integer}
+5i7*Speed{integer}
+6i7*distance{integer}
+

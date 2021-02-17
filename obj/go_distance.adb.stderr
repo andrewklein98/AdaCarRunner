@@ -1,0 +1,1 @@
+go_distance.adb:5:25: warning: "vehicle.distance" may be referenced before it has a value
